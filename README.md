@@ -7,3 +7,12 @@
 3.輸出每個偵測到的物件類別、置信度與邊界框座標
 4.利用 OpenCV 在圖像上繪製邊界框與標籤
 5.使用 Matplotlib 顯示檢測後的結果圖像
+
+使用技術：
+Python 3.x
+Ultralytics YOLO
+OpenCV
+NumPy
+Matplotlib
+PIL（Pillow）
+requests
